@@ -132,7 +132,7 @@ comments:
     repository  : prashantwosti/prashantwosti.github.io # GitHub repo
     owner       : prashantwosti # GitHub repo owner
     admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - "prashantwosti
+      - prashantwosti
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
