@@ -131,8 +131,8 @@ comments:
     clientSecret: 66df3ba920407bd64824041e6ee1ecfc1f42ec27 # GitHub Application Client Secret
     repository  : prashantwosti/prashantwosti.github.io # GitHub repo
     owner       : prashantwosti # GitHub repo owner
-    admin: prashantwosti # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+      - "prashantwosti"
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
