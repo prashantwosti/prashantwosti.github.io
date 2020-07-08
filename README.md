@@ -1,3 +1,3 @@
 # prashantwosti.github.io
 
-Website resources for https://prashant.ap
+Website resources for https://prashant.app
